@@ -36,7 +36,7 @@ public class Login_as_employee  extends Base{
 	@Then("I validate the  employee Id")
 	public void i_validate_the_employee_id() {
 		String employeeId=innerText(homePage.label_greeting);
-		System.out.println(employeeId);
+		System.out.println("EMP ID is ="+employeeId);
 		String expectedValue="Employee Id: 102";
 		assertEquals(employeeId,expectedValue);
 	}
