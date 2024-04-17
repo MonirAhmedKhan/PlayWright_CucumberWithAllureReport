@@ -1,0 +1,4 @@
+# Created at 2024-04-16T09:35:41.864
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Software\workPage_Playwright\class_39Cucumber_Allure\class_39Cucumber_Allure\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
